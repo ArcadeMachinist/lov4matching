@@ -5,6 +5,7 @@ This is matching server for Lord of Vermilion IV arcade cabinets.
 The game was retired from Japan arcades on 31/08/2019.
 
 This project is a part of LOV4 game preservation effort.
+
 To run network matching you would require at least 2 game cabinets, connected to "NESYS at Home" server and a GameServer.
 
 Nesys at Home: https://github.com/fatal-bundy/nesys_at_home
@@ -27,3 +28,5 @@ When at least 2 players found - the game would start in 8 seconds, so be quick t
 By default you would be all places in one Team (up to 4 players, who connect first)
 
 To play VS match - enter TAG 55777 and server would place odd/even players into different Teams
+
+No work or code from SQEX was used in this project.
